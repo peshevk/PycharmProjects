@@ -1,2 +1,3 @@
-# PycharmProjects
-Python training and learning
+# Softuni training
+Python advanced
+Python OOP
